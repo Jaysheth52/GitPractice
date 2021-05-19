@@ -1,1 +1,4 @@
 myLogs.txt
+*.txt
+/myLogs.txt
+newDirectory/
